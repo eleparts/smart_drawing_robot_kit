@@ -1,0 +1,3 @@
+The four folders are offline libraries, and the code can still be compiled normally when the computer has no network and the Arduino IDE lacks libraries.
+One-click installation is silent installation by default, and there is no prompt after running. You can open the source code and try to compile.
+If the one-click installation fails and cannot be compiled, you need to manually copy the library to the folder [computer]-[document]-[Arduino]-[libraries]
