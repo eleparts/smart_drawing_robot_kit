@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <_name>YouzhiHui G-Code Output</_name>
+  <id>com.makerbot.unicorn.gcode</id>
+  <dependency type="extension">org.inkscape.output.svg.inkscape</dependency>
+  <dependency type="executable" location="extensions">unicorn.py</dependency>
+  <dependency type="executable" location="extensions">inkex.py</dependency>
+  <param name="tab" type="notebook">
+    <page name="plotter_setup" _gui-text="Setup">
+      <param name="pen-up-angle" type="float" min="0.0" max="180.0" _gui-text="Pen UP Z-axis height in mm">1</param>
+      <param name="pen-down-angle" type="float" min="0.0" max="180.0" _gui-text="Pen Down Z-axis height in mm">0</param>
+      <param name="finished-height" type="float" min="0.0" max="110.0" _gui-text="Z-axis height after printing in mm.">1</param>
+    </page>
+    <page name="homing" _gui-text="Center point">
+      <_param name="homing_help" type="description" xml:space="preserve">Where is your Paper center point position?
+
+Some examples:
+-A3(297mmx420mm) x-c is 297/2= 149mm,y-c is 420/2= 210mm.
+-A4(210mmx297mm) x-c is 210/2= 105mm,y-c is 297/2= 149mm.
+
+Note: Fill in the correct center point when changing Page size!</_param>
+      <param name="x-home" type="float" min="0" max="1000.00" _gui-text="Pen starts at X value:">149</param>
+      <param name="y-home" type="float" min="0" max="1000.00" _gui-text="Pen starts at Y value:">210</param>
+    </page>
+    <page name="pen_changes" _gui-text="Pen Changes">
+      <param name="pause-on-layer-change" type="boolean" _gui-text="Pause on layer changes?">false</param>
+    </page>
+    <page name="help" _gui-text="Help">
+      <_param name="ext_help" type="description" xml:space="preserve">YouzhiHui G-Code Output.
+
+- All text must be converted to paths.
+- Curves are approximated with line segments.
+
+More Info: http://www.yzhrobot.com</_param>
+    </page>
+  </param>
+
+  <output>
+    <extension>.nc</extension>
+    <mimetype>application/x-gcode</mimetype>
+    <_filetypename>YouzhiHui G-Code(*.nc)</_filetypename>
+    <_filetypetooltip>Toolpath for theYouzhiHui Pen Plotter</_filetypetooltip>
+    <dataloss>true</dataloss>
+  </output>
+  <script>
+    <command reldir="extensions" interpreter="python">unicorn.py</command>
+  </script>
+</inkscape-extension>

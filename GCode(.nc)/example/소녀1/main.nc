@@ -1,0 +1,1664 @@
+(http://www.yzhrobot.com Youzhihui)
+G0Z20.000
+G0X0.000Y0.000
+
+
+(Polyline consisting of 149 segments.)
+G01 X-7.82 Y92.43
+G00 Z0.00 (pen down)
+G01 X-11.12 Y92.18
+G01 X-14.39 Y91.61
+G01 X-20.79 Y89.80
+G01 X-29.04 Y86.60
+G01 X-33.06 Y84.62
+G01 X-36.92 Y82.36
+G01 X-41.46 Y79.22
+G01 X-45.77 Y75.80
+G01 X-47.81 Y73.93
+G01 X-49.88 Y72.20
+G01 X-49.43 Y74.23
+G01 X-48.54 Y76.36
+G01 X-45.80 Y80.67
+G01 X-42.42 Y84.63
+G01 X-39.13 Y87.78
+G01 X-34.24 Y91.61
+G01 X-29.01 Y94.96
+G01 X-23.64 Y97.77
+G01 X-20.79 Y99.07
+G01 X-16.51 Y100.60
+G01 X-12.13 Y101.69
+G01 X-7.66 Y102.34
+G01 X-3.08 Y102.55
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X10.52 Y100.34
+G00 Z0.00 (pen down)
+G01 X15.58 Y100.92
+G01 X17.47 Y100.71
+G01 X20.76 Y100.19
+G01 X24.05 Y99.35
+G01 X30.44 Y96.78
+G01 X34.19 Y94.67
+G01 X37.71 Y92.23
+G01 X41.59 Y88.96
+G01 X45.22 Y85.27
+G01 X48.56 Y81.21
+G01 X51.58 Y76.86
+G01 X54.22 Y72.27
+G01 X56.46 Y67.50
+G01 X58.24 Y62.60
+G01 X59.53 Y57.65
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X22.53 Y92.43
+G00 Z0.00 (pen down)
+G01 X28.02 Y88.76
+G01 X33.15 Y84.75
+G01 X37.96 Y80.43
+G01 X42.50 Y75.86
+G01 X50.97 Y66.09
+G01 X58.94 Y55.75
+G01 X61.71 Y51.14
+G01 X62.99 Y48.87
+G01 X64.55 Y46.64
+G01 X68.06 Y42.47
+G01 X72.03 Y36.79
+G01 X75.27 Y30.77
+G01 X77.55 Y24.53
+G01 X78.77 Y18.12
+G01 X78.82 Y13.38
+G01 X78.77 Y10.53
+G01 X77.65 Y4.97
+G01 X75.97 Y0.41
+G01 X73.59 Y6.51
+G01 X70.77 Y13.38
+G01 X69.57 Y15.34
+G01 X68.07 Y17.17
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X6.41 Y90.22
+G00 Z0.00 (pen down)
+G01 X6.41 Y89.59
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X6.72 Y88.96
+G00 Z0.00 (pen down)
+G01 X7.11 Y86.03
+G01 X7.95 Y83.17
+G01 X9.19 Y80.41
+G01 X10.74 Y77.76
+G01 X14.53 Y72.87
+G01 X18.74 Y68.66
+G01 X25.69 Y62.78
+G01 X32.31 Y57.58
+G01 X38.72 Y52.16
+G01 X44.82 Y46.42
+G01 X50.54 Y40.26
+G01 X54.94 Y34.88
+G01 X58.83 Y29.19
+G01 X60.03 Y26.66
+G01 X61.64 Y24.43
+G01 X62.44 Y23.22
+G01 X62.69 Y22.23
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-3.71 Y85.48
+G00 Z0.00 (pen down)
+G01 X-4.03 Y85.16
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X18.74 Y85.48
+G00 Z0.00 (pen down)
+G01 X22.00 Y81.89
+G01 X25.58 Y78.64
+G01 X33.41 Y72.81
+G01 X41.57 Y67.31
+G01 X49.41 Y61.47
+G01 X60.16 Y52.27
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-4.66 Y84.85
+G00 Z0.00 (pen down)
+G01 X-8.79 Y82.14
+G01 X-13.23 Y79.96
+G01 X-17.89 Y78.18
+G01 X-22.72 Y76.69
+G01 X-32.51 Y74.11
+G01 X-41.98 Y71.23
+G01 X-48.77 Y68.12
+G01 X-54.94 Y64.22
+G01 X-56.85 Y62.85
+G01 X-58.42 Y61.13
+G01 X-56.83 Y60.82
+G01 X-52.10 Y61.63
+G01 X-40.39 Y62.71
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X0.08 Y84.85
+G00 Z0.00 (pen down)
+G01 X-0.24 Y84.53
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-0.55 Y83.90
+G00 Z0.00 (pen down)
+G01 X-3.42 Y81.11
+G01 X-6.48 Y78.73
+G01 X-13.02 Y74.83
+G01 X-19.97 Y71.58
+G01 X-27.11 Y68.32
+G01 X-33.22 Y64.89
+G01 X-36.32 Y63.56
+G01 X-39.76 Y63.03
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X0.71 Y76.62
+G00 Z0.00 (pen down)
+G01 X-2.26 Y74.26
+G01 X-5.51 Y72.30
+G01 X-8.97 Y70.69
+G01 X-12.57 Y69.35
+G01 X-22.83 Y66.33
+G01 X-28.12 Y65.15
+G01 X-33.44 Y64.29
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X9.57 Y76.31
+G00 Z0.00 (pen down)
+G01 X11.63 Y72.74
+G01 X13.89 Y69.35
+G01 X18.00 Y64.73
+G01 X22.66 Y60.62
+G01 X32.65 Y53.27
+G01 X39.28 Y48.39
+G01 X45.62 Y43.16
+G01 X47.78 Y41.19
+G01 X51.89 Y36.08
+G01 X53.70 Y33.31
+G01 X54.79 Y31.09
+G01 X51.77 Y32.67
+G01 X48.28 Y35.06
+G01 X41.51 Y40.08
+G01 X32.93 Y46.42
+G01 X24.75 Y53.28
+G01 X17.53 Y60.48
+G01 X11.15 Y68.40
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X4.82 Y74.73
+G00 Z0.00 (pen down)
+G01 X4.82 Y74.41
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X5.14 Y73.78
+G00 Z0.00 (pen down)
+G01 X5.62 Y71.71
+G01 X6.39 Y69.66
+G01 X8.37 Y65.87
+G01 X12.30 Y60.29
+G01 X16.85 Y55.12
+G01 X24.75 Y47.53
+G01 X30.22 Y41.97
+G01 X32.63 Y39.28
+G01 X34.23 Y37.10
+G01 X32.75 Y36.88
+G01 X31.17 Y37.03
+G01 X27.28 Y37.41
+G01 X25.38 Y37.28
+G01 X22.85 Y37.10
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-49.88 Y72.20
+G00 Z0.00 (pen down)
+G01 X-53.83 Y67.49
+G01 X-55.76 Y65.05
+G01 X-56.84 Y63.34
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X2.61 Y71.88
+G00 Z0.00 (pen down)
+G01 X1.80 Y69.25
+G01 X0.66 Y66.74
+G01 X-2.23 Y62.08
+G01 X-5.96 Y57.33
+G01 X-9.81 Y53.31
+G01 X-13.60 Y50.04
+G01 X-17.63 Y46.93
+G01 X-19.09 Y45.73
+G01 X-20.25 Y44.37
+G01 X-21.60 Y41.52
+G01 X-23.08 Y37.51
+G01 X-24.21 Y33.35
+G01 X-24.99 Y29.08
+G01 X-25.41 Y24.75
+G01 X-25.46 Y20.40
+G01 X-25.13 Y16.07
+G01 X-24.42 Y11.82
+G01 X-23.32 Y7.69
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-1.18 Y69.98
+G00 Z0.00 (pen down)
+G01 X-3.36 Y68.06
+G01 X-5.69 Y66.40
+G01 X-10.67 Y63.64
+G01 X-20.16 Y59.48
+G01 X-32.77 Y54.61
+G01 X-39.08 Y51.98
+G01 X-45.14 Y49.01
+G01 X-50.92 Y45.48
+G01 X-56.21 Y41.19
+G01 X-58.68 Y38.55
+G01 X-60.63 Y36.15
+G01 X-60.60 Y37.39
+G01 X-60.14 Y38.56
+G01 X-58.42 Y41.21
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-69.17 Y40.89
+G00 Z0.00 (pen down)
+G01 X-66.83 Y43.40
+G01 X-65.56 Y44.62
+G01 X-64.11 Y45.61
+G01 X-59.05 Y48.28
+G01 X-53.68 Y50.34
+G01 X-51.47 Y50.93
+G01 X-50.52 Y51.36
+G01 X-49.57 Y52.11
+G01 X-47.12 Y54.61
+G01 X-46.05 Y55.60
+G01 X-44.82 Y56.37
+G01 X-43.53 Y56.61
+G01 X-42.29 Y56.64
+G01 X-37.87 Y57.47
+G01 X-30.98 Y59.24
+G01 X-24.37 Y61.38
+G01 X-11.30 Y66.50
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-58.42 Y61.13
+G00 Z0.00 (pen down)
+G01 X-59.47 Y60.15
+G01 X-60.38 Y58.91
+G01 X-62.98 Y53.72
+G01 X-65.31 Y48.48
+G01 X-65.95 Y46.53
+G01 X-66.01 Y44.69
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-85.30 Y39.94
+G00 Z0.00 (pen down)
+G01 X-83.41 Y43.52
+G01 X-80.99 Y46.93
+G01 X-78.19 Y50.01
+G01 X-75.18 Y52.62
+G01 X-71.76 Y54.91
+G01 X-67.85 Y56.99
+G01 X-63.81 Y58.70
+G01 X-60.00 Y59.86
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-41.03 Y59.86
+G00 Z0.00 (pen down)
+G01 X-43.87 Y57.33
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-64.43 Y49.75
+G00 Z0.00 (pen down)
+G01 X-58.98 Y52.09
+G01 X-53.36 Y54.26
+G01 X-46.72 Y55.75
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-9.72 Y53.22
+G00 Z0.00 (pen down)
+G01 X-8.15 Y52.59
+G01 X-6.89 Y52.42
+G01 X-5.54 Y52.33
+G01 X-3.71 Y51.95
+G01 X-1.70 Y51.14
+G01 X0.29 Y50.02
+G01 X3.88 Y47.53
+G01 X8.30 Y44.05
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-29.96 Y51.33
+G00 Z0.00 (pen down)
+G01 X-30.91 Y50.69
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-31.54 Y50.38
+G00 Z0.00 (pen down)
+G01 X-36.22 Y47.07
+G01 X-41.05 Y43.95
+G01 X-45.87 Y40.83
+G01 X-50.51 Y37.52
+G01 X-55.25 Y33.67
+G01 X-59.68 Y29.51
+G01 X-64.90 Y23.38
+G01 X-67.16 Y20.03
+G01 X-69.07 Y16.54
+G01 X-70.40 Y13.70
+G01 X-71.13 Y11.74
+G01 X-71.61 Y9.59
+G01 X-71.99 Y7.06
+G01 X-72.00 Y5.47
+G01 X-71.79 Y3.89
+G01 X-70.64 Y-3.11
+G01 X-68.85 Y-10.02
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-51.78 Y50.06
+G00 Z0.00 (pen down)
+G01 X-52.10 Y49.75
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-77.08 Y34.25
+G00 Z0.00 (pen down)
+G01 X-75.14 Y38.28
+G01 X-72.68 Y42.08
+G01 X-69.65 Y45.37
+G01 X-66.01 Y47.85
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X64.91 Y45.95
+G00 Z0.00 (pen down)
+G01 X65.85 Y42.69
+G01 X67.57 Y38.36
+G01 X69.72 Y31.34
+G01 X71.05 Y24.13
+G01 X71.24 Y18.70
+G01 X70.91 Y14.33
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-26.48 Y44.69
+G00 Z0.00 (pen down)
+G01 X-27.73 Y42.98
+G01 X-28.49 Y41.46
+G01 X-28.80 Y40.05
+G01 X-28.69 Y38.68
+G01 X-24.71 Y41.76
+G01 X-22.51 Y43.30
+G01 X-20.47 Y44.37
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-9.41 Y44.69
+G00 Z0.00 (pen down)
+G01 X-7.82 Y41.21
+G01 X-9.46 Y41.17
+G01 X-10.51 Y41.52
+G01 X-11.94 Y42.47
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-11.62 Y44.37
+G00 Z0.00 (pen down)
+G01 X-9.09 Y41.84
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-7.51 Y44.37
+G00 Z0.00 (pen down)
+G01 X-6.43 Y41.44
+G01 X-6.70 Y40.91
+G01 X-7.82 Y41.21
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-4.66 Y43.10
+G00 Z0.00 (pen down)
+G01 X-4.25 Y40.60
+G01 X-3.49 Y39.95
+G01 X-1.82 Y39.63
+G01 X-1.82 Y41.52
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-3.08 Y43.10
+G00 Z0.00 (pen down)
+G01 X-0.53 Y42.60
+G01 X1.65 Y41.40
+G01 X3.52 Y39.63
+G01 X5.14 Y37.41
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-66.96 Y42.47
+G00 Z0.00 (pen down)
+G01 X-67.59 Y30.46
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-57.79 Y42.16
+G00 Z0.00 (pen down)
+G01 X-58.10 Y41.84
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X1.03 Y42.16
+G00 Z0.00 (pen down)
+G01 X0.33 Y40.08
+G01 X-0.35 Y39.53
+G01 X-1.50 Y39.31
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X37.39 Y42.16
+G00 Z0.00 (pen down)
+G01 X37.71 Y41.21
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-5.93 Y40.57
+G00 Z0.00 (pen down)
+G01 X-4.35 Y40.57
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X38.03 Y40.57
+G00 Z0.00 (pen down)
+G01 X38.68 Y38.73
+G01 X39.82 Y36.15
+G01 X41.13 Y32.72
+G01 X42.26 Y29.19
+G01 X42.72 Y26.03
+G01 X43.27 Y23.82
+G01 X44.27 Y20.97
+G01 X46.15 Y16.86
+G01 X47.64 Y12.17
+G01 X48.85 Y7.37
+G01 X49.63 Y2.59
+G01 X50.07 Y-2.11
+G01 X50.23 Y-6.75
+G01 X50.07 Y-11.29
+G01 X49.80 Y-14.83
+G01 X48.92 Y-17.88
+G01 X48.46 Y-18.56
+G01 X44.81 Y-14.43
+G01 X40.87 Y-10.35
+G01 X38.92 Y-8.91
+G01 X36.61 Y-7.74
+G01 X34.14 Y-7.04
+G01 X31.70 Y-7.00
+G01 X30.08 Y-7.29
+G01 X28.54 Y-7.85
+G01 X26.13 Y-9.55
+G01 X24.03 Y-11.82
+G01 X22.27 Y-14.38
+G01 X20.88 Y-16.98
+G01 X19.96 Y-19.49
+G01 X19.35 Y-22.14
+G01 X18.60 Y-27.41
+G01 X18.46 Y-29.94
+G01 X18.74 Y-32.47
+G01 X19.19 Y-36.90
+G01 X20.00 Y-42.27
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-69.49 Y40.26
+G00 Z0.00 (pen down)
+G01 X-72.10 Y36.60
+G01 X-74.10 Y32.67
+G01 X-75.34 Y29.21
+G01 X-76.23 Y25.69
+G01 X-76.79 Y22.11
+G01 X-77.01 Y18.51
+G01 X-76.92 Y14.89
+G01 X-76.52 Y11.29
+G01 X-74.86 Y4.21
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-6.88 Y40.26
+G00 Z0.00 (pen down)
+G01 X-6.59 Y38.84
+G01 X-6.14 Y37.96
+G01 X-5.23 Y36.94
+G01 X-4.07 Y36.07
+G01 X-2.76 Y35.76
+G01 X-1.79 Y36.05
+G01 X-0.93 Y36.66
+G01 X0.52 Y38.13
+G01 X1.74 Y39.02
+G01 X2.61 Y40.26
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-9.41 Y39.94
+G00 Z0.00 (pen down)
+G01 X-9.09 Y39.94
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-3.40 Y39.63
+G00 Z0.00 (pen down)
+G01 X-2.13 Y37.73
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-85.61 Y39.31
+G00 Z0.00 (pen down)
+G01 X-85.93 Y38.36
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-34.70 Y39.31
+G00 Z0.00 (pen down)
+G01 X-35.02 Y36.15
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X0.08 Y38.99
+G00 Z0.00 (pen down)
+G01 X0.08 Y38.68
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X3.88 Y38.99
+G00 Z0.00 (pen down)
+G01 X3.17 Y37.65
+G01 X3.33 Y36.49
+G01 X4.07 Y35.40
+G01 X5.14 Y34.25
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-28.69 Y38.68
+G00 Z0.00 (pen down)
+G01 X-30.85 Y36.67
+G01 X-33.12 Y34.91
+G01 X-35.61 Y32.66
+G01 X-37.87 Y30.14
+G01 X-40.43 Y27.87
+G01 X-41.70 Y26.60
+G01 X-42.53 Y25.31
+G01 X-42.69 Y24.45
+G01 X-42.49 Y23.76
+G01 X-41.66 Y22.55
+G01 X-41.34 Y24.13
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X1.35 Y38.36
+G00 Z0.00 (pen down)
+G01 X2.61 Y37.73
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X38.34 Y37.73
+G00 Z0.00 (pen down)
+G01 X39.25 Y32.99
+G01 X39.32 Y31.75
+G01 X39.54 Y30.46
+G01 X40.12 Y29.28
+G01 X40.88 Y28.24
+G01 X42.45 Y26.34
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X4.19 Y37.41
+G00 Z0.00 (pen down)
+G01 X3.56 Y36.78
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-86.56 Y37.10
+G00 Z0.00 (pen down)
+G01 X-87.51 Y33.62
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-44.82 Y36.78
+G00 Z0.00 (pen down)
+G01 X-44.36 Y31.18
+G01 X-43.77 Y28.84
+G01 X-42.92 Y26.98
+G01 X-39.56 Y30.03
+G01 X-36.60 Y32.04
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X34.23 Y36.78
+G00 Z0.00 (pen down)
+G01 X39.29 Y31.09
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-30.28 Y36.46
+G00 Z0.00 (pen down)
+G01 X-30.48 Y30.53
+G01 X-30.47 Y26.68
+G01 X-30.14 Y22.87
+G01 X-28.95 Y17.44
+G01 X-27.36 Y12.43
+G01 X-26.80 Y10.22
+G01 X-28.42 Y11.72
+G01 X-30.11 Y13.82
+G01 X-32.87 Y18.44
+G01 X-34.74 Y24.05
+G01 X-35.39 Y27.18
+G01 X-35.65 Y29.82
+G01 X-35.65 Y31.72
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-60.95 Y36.15
+G00 Z0.00 (pen down)
+G01 X-63.57 Y32.66
+G01 X-65.76 Y28.87
+G01 X-67.51 Y25.32
+G01 X-68.96 Y21.60
+G01 X-70.01 Y17.73
+G01 X-70.44 Y14.64
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-35.34 Y35.20
+G00 Z0.00 (pen down)
+G01 X-34.70 Y33.93
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-0.55 Y34.57
+G00 Z0.00 (pen down)
+G01 X1.66 Y34.25
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-77.39 Y33.62
+G00 Z0.00 (pen down)
+G01 X-77.39 Y33.30
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X37.08 Y33.62
+G00 Z0.00 (pen down)
+G01 X32.34 Y27.61
+G01 X34.23 Y27.61
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-77.71 Y32.67
+G00 Z0.00 (pen down)
+G01 X-77.71 Y32.35
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X20.64 Y31.40
+G00 Z0.00 (pen down)
+G01 X23.63 Y31.96
+G01 X25.16 Y32.06
+G01 X26.64 Y31.86
+G01 X29.14 Y30.50
+G01 X30.83 Y28.86
+G01 X31.29 Y27.79
+G01 X31.39 Y26.98
+G01 X31.70 Y26.66
+G01 X32.02 Y26.98
+G01 X32.34 Y27.29
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X55.10 Y31.09
+G00 Z0.00 (pen down)
+G01 X57.12 Y28.70
+G01 X59.21 Y26.98
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X28.54 Y30.77
+G00 Z0.00 (pen down)
+G01 X28.18 Y29.75
+G01 X27.67 Y29.19
+G01 X26.33 Y28.87
+G01 X26.26 Y27.27
+G01 X25.06 Y25.40
+G01 X26.12 Y25.01
+G01 X27.17 Y24.94
+G01 X29.08 Y25.43
+G01 X30.57 Y26.30
+G01 X31.39 Y26.98
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X24.75 Y30.46
+G00 Z0.00 (pen down)
+G01 X24.86 Y29.62
+G01 X25.21 Y29.30
+G01 X26.01 Y29.19
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X30.44 Y29.51
+G00 Z0.00 (pen down)
+G01 X29.49 Y28.56
+G01 X30.75 Y27.61
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X39.61 Y29.19
+G00 Z0.00 (pen down)
+G01 X38.94 Y24.79
+G01 X37.70 Y20.02
+G01 X34.09 Y10.30
+G01 X30.18 Y0.73
+G01 X28.69 Y-3.79
+G01 X27.91 Y-7.49
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X17.79 Y28.56
+G00 Z0.00 (pen down)
+G01 X21.18 Y28.82
+G01 X24.43 Y28.87
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X20.95 Y28.56
+G00 Z0.00 (pen down)
+G01 X21.30 Y27.02
+G01 X22.32 Y26.06
+G01 X23.68 Y25.57
+G01 X25.06 Y25.40
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X23.17 Y28.56
+G00 Z0.00 (pen down)
+G01 X24.11 Y27.29
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X28.54 Y28.56
+G00 Z0.00 (pen down)
+G01 X29.49 Y28.56
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X57.32 Y28.24
+G00 Z0.00 (pen down)
+G01 X57.54 Y26.78
+G01 X58.00 Y25.45
+G01 X59.42 Y21.92
+G01 X61.31 Y15.91
+G01 X62.60 Y9.18
+G01 X63.00 Y2.31
+G01 X62.66 Y-2.10
+G01 X61.88 Y-6.60
+G01 X60.68 Y-11.00
+G01 X59.12 Y-15.08
+G01 X56.23 Y-20.77
+G01 X54.29 Y-23.94
+G01 X52.57 Y-26.15
+G01 X50.72 Y-22.35
+G01 X49.96 Y-21.11
+G01 X49.44 Y-20.63
+G01 X48.88 Y-20.57
+G01 X48.28 Y-21.11
+G01 X47.89 Y-22.01
+G01 X47.32 Y-23.93
+G01 X44.35 Y-30.57
+G01 X45.67 Y-30.48
+G01 X47.24 Y-29.98
+G01 X50.36 Y-28.36
+G01 X51.16 Y-27.84
+G01 X52.24 Y-27.56
+G01 X53.20 Y-28.00
+G01 X53.66 Y-28.69
+G01 X54.79 Y-30.89
+G01 X60.80 Y-28.65
+G01 X63.91 Y-27.32
+G01 X66.80 Y-25.59
+G01 X69.20 Y-23.62
+G01 X71.32 Y-21.36
+G01 X73.10 Y-18.82
+G01 X74.45 Y-16.03
+G01 X75.34 Y-12.87
+G01 X75.99 Y-7.95
+G01 X75.90 Y-5.43
+G01 X75.34 Y-3.06
+G01 X74.12 Y-5.42
+G01 X72.50 Y-8.12
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-42.92 Y26.98
+G00 Z0.00 (pen down)
+G01 X-44.91 Y25.07
+G01 X-50.51 Y19.39
+G01 X-53.01 Y16.57
+G01 X-54.14 Y15.26
+G01 X-55.18 Y13.71
+G01 X-57.19 Y10.85
+G01 X-59.08 Y7.24
+G01 X-60.61 Y3.58
+G01 X-62.02 Y-0.79
+G01 X-63.10 Y-5.28
+G01 X-63.70 Y-8.97
+G01 X-64.02 Y-12.68
+G01 X-64.11 Y-20.14
+G01 X-63.79 Y-23.03
+G01 X-63.68 Y-24.65
+G01 X-63.86 Y-25.70
+G01 X-64.31 Y-26.07
+G01 X-64.84 Y-26.03
+G01 X-66.01 Y-25.30
+G01 X-67.44 Y-23.99
+G01 X-68.75 Y-22.38
+G01 X-70.79 Y-18.87
+G01 X-71.92 Y-15.95
+G01 X-72.70 Y-13.01
+G01 X-73.44 Y-7.06
+G01 X-73.40 Y-1.01
+G01 X-72.97 Y5.16
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X32.02 Y26.98
+G00 Z0.00 (pen down)
+G01 X33.92 Y25.71
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X31.70 Y26.66
+G00 Z0.00 (pen down)
+G01 X31.07 Y23.50
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-43.24 Y26.34
+G00 Z0.00 (pen down)
+G01 X-42.61 Y25.71
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X14.94 Y26.34
+G00 Z0.00 (pen down)
+G01 X14.31 Y16.23
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-42.92 Y24.76
+G00 Z0.00 (pen down)
+G01 X-46.48 Y21.32
+G01 X-49.80 Y17.49
+G01 X-53.54 Y12.43
+G01 X-55.31 Y9.59
+G01 X-57.79 Y4.53
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-41.66 Y22.55
+G00 Z0.00 (pen down)
+G01 X-40.72 Y19.04
+G01 X-39.33 Y15.70
+G01 X-37.58 Y12.51
+G01 X-35.55 Y9.43
+G01 X-26.68 Y-2.42
+G01 X-24.52 Y-5.28
+G01 X-20.73 Y-10.02
+G01 X-17.74 Y-13.82
+G01 X-13.62 Y-19.24
+G01 X-9.85 Y-24.88
+G01 X-8.22 Y-27.73
+G01 X-6.42 Y-31.46
+G01 X-4.88 Y-35.32
+G01 X-3.56 Y-40.32
+G01 X-2.94 Y-45.19
+G01 X-2.76 Y-54.61
+G01 X-1.05 Y-53.48
+G01 X0.52 Y-51.86
+G01 X1.94 Y-49.79
+G01 X3.15 Y-47.33
+G01 X4.22 Y-43.61
+G01 X4.65 Y-39.47
+G01 X4.57 Y-35.31
+G01 X4.11 Y-31.52
+G01 X3.03 Y-27.73
+G01 X1.14 Y-23.44
+G01 X-1.26 Y-19.17
+G01 X-6.68 Y-11.29
+G01 X-8.53 Y-8.57
+G01 X-12.88 Y-4.33
+G01 X-20.15 Y2.92
+G01 X-26.80 Y10.22
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X63.64 Y22.23
+G00 Z0.00 (pen down)
+G01 X67.75 Y17.81
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X63.01 Y21.92
+G00 Z0.00 (pen down)
+G01 X68.70 Y6.74
+G01 X69.92 Y9.40
+G01 X70.91 Y12.11
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-79.29 Y20.65
+G00 Z0.00 (pen down)
+G01 X-77.39 Y8.64
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X44.04 Y20.34
+G00 Z0.00 (pen down)
+G01 X44.12 Y16.30
+G01 X44.01 Y10.85
+G01 X43.41 Y5.97
+G01 X42.26 Y0.71
+G01 X40.56 Y-4.31
+G01 X38.34 Y-8.44
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-41.66 Y19.39
+G00 Z0.00 (pen down)
+G01 X-41.34 Y14.88
+G01 X-40.50 Y9.27
+G01 X-38.69 Y2.34
+G01 X-36.68 Y-4.51
+G01 X-35.06 Y-11.42
+G01 X-34.57 Y-14.95
+G01 X-34.39 Y-18.56
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X29.49 Y18.12
+G00 Z0.00 (pen down)
+G01 X28.70 Y15.70
+G01 X27.55 Y13.39
+G01 X24.43 Y9.10
+G01 X20.68 Y5.29
+G01 X16.84 Y2.00
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X4.19 Y16.23
+G00 Z0.00 (pen down)
+G01 X3.56 Y14.01
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X5.46 Y14.01
+G00 Z0.00 (pen down)
+G01 X7.99 Y14.01
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X13.68 Y13.38
+G00 Z0.00 (pen down)
+G01 X13.36 Y13.06
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-55.26 Y12.43
+G00 Z0.00 (pen down)
+G01 X-55.26 Y10.85
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X9.25 Y12.11
+G00 Z0.00 (pen down)
+G01 X12.41 Y12.43
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-47.04 Y11.48
+G00 Z0.00 (pen down)
+G01 X-46.76 Y7.69
+G01 X-46.14 Y3.98
+G01 X-45.19 Y0.36
+G01 X-43.97 Y-3.18
+G01 X-40.84 Y-10.07
+G01 X-37.06 Y-16.77
+G01 X-28.82 Y-29.83
+G01 X-24.98 Y-36.33
+G01 X-21.74 Y-42.91
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-8.14 Y9.90
+G00 Z0.00 (pen down)
+G01 X-6.59 Y9.05
+G01 X-4.66 Y8.95
+G01 X1.35 Y8.95
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-26.17 Y8.64
+G00 Z0.00 (pen down)
+G01 X-26.38 Y3.65
+G01 X-26.46 Y0.60
+G01 X-26.80 Y-1.80
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-6.56 Y8.32
+G00 Z0.00 (pen down)
+G01 X-5.72 Y7.19
+G01 X-5.14 Y5.74
+G01 X-4.53 Y4.16
+G01 X-3.61 Y2.63
+G01 X-1.95 Y1.06
+G01 X-0.03 Y-0.03
+G01 X2.05 Y-0.65
+G01 X4.19 Y-0.85
+G01 X5.85 Y-0.73
+G01 X7.35 Y-0.24
+G01 X8.88 Y0.77
+G01 X10.20 Y2.00
+G01 X7.37 Y3.45
+G01 X4.51 Y4.45
+G01 X2.40 Y4.98
+G01 X0.64 Y5.23
+G01 X-1.23 Y5.60
+G01 X-3.66 Y6.46
+G01 X-4.66 Y7.06
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X2.61 Y8.32
+G00 Z0.00 (pen down)
+G01 X7.34 Y6.41
+G01 X9.56 Y5.25
+G01 X11.46 Y3.58
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-55.26 Y7.69
+G00 Z0.00 (pen down)
+G01 X-54.46 Y3.43
+G01 X-52.85 Y-1.48
+G01 X-50.22 Y-7.26
+G01 X-47.40 Y-12.98
+G01 X-44.86 Y-18.80
+G01 X-43.07 Y-24.88
+G01 X-42.57 Y-28.12
+G01 X-42.40 Y-31.61
+G01 X-42.72 Y-35.06
+G01 X-43.66 Y-38.16
+G01 X-45.69 Y-41.21
+G01 X-48.30 Y-43.58
+G01 X-51.15 Y-45.44
+G01 X-49.59 Y-47.33
+G01 X-46.40 Y-49.86
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X68.70 Y6.74
+G00 Z0.00 (pen down)
+G01 X68.89 Y2.92
+G01 X69.01 Y-1.48
+G01 X68.78 Y-4.34
+G01 X68.25 Y-7.16
+G01 X66.39 Y-12.55
+G01 X64.81 Y-15.56
+G01 X62.89 Y-18.42
+G01 X60.69 Y-21.04
+G01 X58.27 Y-23.33
+G01 X54.79 Y-25.96
+G01 X52.89 Y-27.41
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-58.10 Y3.89
+G00 Z0.00 (pen down)
+G01 X-59.49 Y-0.50
+G01 X-60.50 Y-4.96
+G01 X-61.25 Y-10.65
+G01 X-61.26 Y-17.15
+G01 X-60.55 Y-23.62
+G01 X-59.43 Y-28.44
+G01 X-57.87 Y-33.29
+G01 X-55.87 Y-37.96
+G01 X-53.47 Y-42.27
+G01 X-52.52 Y-43.84
+G01 X-51.46 Y-45.12
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X10.20 Y2.00
+G00 Z0.00 (pen down)
+G01 X12.41 Y2.31
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X75.97 Y0.10
+G00 Z0.00 (pen down)
+G01 X75.66 Y-2.75
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X13.36 Y-1.48
+G00 Z0.00 (pen down)
+G01 X10.20 Y-4.64
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-26.48 Y-4.01
+G00 Z0.00 (pen down)
+G01 X-25.89 Y-12.23
+G01 X-22.82 Y-30.26
+G01 X-22.45 Y-35.15
+G01 X-22.37 Y-39.74
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X12.10 Y-4.64
+G00 Z0.00 (pen down)
+G01 X11.47 Y-18.87
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X7.04 Y-8.44
+G00 Z0.00 (pen down)
+G01 X4.37 Y-10.51
+G01 X1.55 Y-11.66
+G01 X-1.46 Y-11.75
+G01 X-4.66 Y-10.65
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-7.19 Y-9.39
+G00 Z0.00 (pen down)
+G01 X-5.93 Y-10.02
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-21.74 Y-11.92
+G00 Z0.00 (pen down)
+G01 X-16.89 Y-18.70
+G01 X-12.60 Y-25.96
+G01 X-9.16 Y-33.63
+G01 X-7.85 Y-37.60
+G01 X-6.88 Y-41.64
+G01 X-6.33 Y-46.20
+G01 X-6.24 Y-50.81
+G01 X-6.47 Y-53.66
+G01 X-7.52 Y-59.03
+G01 X-9.57 Y-63.76
+G01 X-10.99 Y-66.00
+G01 X-12.58 Y-67.87
+G01 X-14.64 Y-69.61
+G01 X-15.28 Y-70.58
+G01 X-15.69 Y-71.72
+G01 X-16.36 Y-74.21
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X48.46 Y-18.56
+G00 Z0.00 (pen down)
+G01 X48.46 Y-19.82
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X11.78 Y-19.51
+G00 Z0.00 (pen down)
+G01 X12.80 Y-22.57
+G01 X14.25 Y-25.34
+G01 X15.98 Y-27.81
+G01 X17.79 Y-29.94
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-34.39 Y-22.35
+G00 Z0.00 (pen down)
+G01 X-34.39 Y-23.93
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X45.93 Y-23.93
+G00 Z0.00 (pen down)
+G01 X43.85 Y-25.94
+G01 X41.44 Y-27.36
+G01 X38.75 Y-28.16
+G01 X35.81 Y-28.35
+G01 X34.24 Y-28.12
+G01 X32.83 Y-27.66
+G01 X30.12 Y-26.46
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-34.70 Y-24.88
+G00 Z0.00 (pen down)
+G01 X-34.70 Y-25.20
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-63.80 Y-26.15
+G00 Z0.00 (pen down)
+G01 X-62.59 Y-29.02
+G01 X-61.63 Y-32.38
+G01 X-59.68 Y-39.11
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X52.57 Y-26.15
+G00 Z0.00 (pen down)
+G01 X52.57 Y-27.10
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-72.02 Y-28.04
+G00 Z0.00 (pen down)
+G01 X-72.33 Y-32.47
+G01 X-72.08 Y-35.00
+G01 X-71.02 Y-38.26
+G01 X-69.25 Y-41.32
+G01 X-67.30 Y-43.38
+G01 X-65.10 Y-44.81
+G01 X-62.82 Y-45.52
+G01 X-60.63 Y-45.44
+G01 X-63.39 Y-43.83
+G01 X-64.85 Y-42.75
+G01 X-66.48 Y-41.01
+G01 X-68.12 Y-38.48
+G01 X-69.17 Y-35.63
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-35.65 Y-28.68
+G00 Z0.00 (pen down)
+G01 X-35.65 Y-29.31
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-35.97 Y-29.94
+G00 Z0.00 (pen down)
+G01 X-36.96 Y-32.93
+G01 X-38.26 Y-35.84
+G01 X-39.93 Y-38.55
+G01 X-42.00 Y-40.92
+G01 X-43.82 Y-42.38
+G01 X-45.80 Y-43.56
+G01 X-47.69 Y-44.31
+G01 X-49.25 Y-44.49
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X49.10 Y-30.89
+G00 Z0.00 (pen down)
+G01 X51.77 Y-30.86
+G01 X53.84 Y-30.57
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X26.96 Y-33.42
+G00 Z0.00 (pen down)
+G01 X29.52 Y-35.47
+G01 X30.95 Y-36.17
+G01 X32.65 Y-36.60
+G01 X35.21 Y-36.71
+G01 X37.53 Y-36.23
+G01 X39.62 Y-35.22
+G01 X41.45 Y-33.71
+G01 X44.04 Y-30.89
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X54.79 Y-30.89
+G00 Z0.00 (pen down)
+G01 X55.96 Y-34.87
+G01 X57.63 Y-39.74
+G01 X58.15 Y-41.95
+G01 X58.54 Y-43.07
+G01 X59.13 Y-43.92
+G01 X61.06 Y-44.74
+G01 X63.70 Y-44.93
+G01 X68.38 Y-44.32
+G01 X70.59 Y-43.64
+G01 X72.13 Y-42.41
+G01 X73.44 Y-41.01
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X32.02 Y-32.47
+G00 Z0.00 (pen down)
+G01 X34.98 Y-32.69
+G01 X37.85 Y-32.51
+G01 X40.33 Y-32.31
+G01 X42.14 Y-32.47
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-69.49 Y-34.69
+G00 Z0.00 (pen down)
+G01 X-69.49 Y-35.00
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X0.71 Y-53.66
+G00 Z0.00 (pen down)
+G01 X15.89 Y-38.16
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-22.69 Y-42.27
+G00 Z0.00 (pen down)
+G01 X-24.90 Y-52.08
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-25.22 Y-44.49
+G00 Z0.00 (pen down)
+G01 X-26.89 Y-46.73
+G01 X-28.76 Y-48.82
+G01 X-30.90 Y-50.56
+G01 X-33.44 Y-51.75
+G01 X-37.36 Y-52.49
+G01 X-41.29 Y-52.86
+G01 X-45.09 Y-53.64
+G01 X-46.89 Y-54.43
+G01 X-48.62 Y-55.62
+G01 X-50.47 Y-57.61
+G01 X-51.82 Y-59.88
+G01 X-52.77 Y-62.38
+G01 X-53.42 Y-65.04
+G01 X-53.76 Y-66.67
+G01 X-53.75 Y-68.20
+G01 X-53.09 Y-69.40
+G01 X-52.09 Y-70.41
+G01 X-49.25 Y-72.67
+G01 X-46.42 Y-74.25
+G01 X-43.37 Y-75.45
+G01 X-40.18 Y-76.19
+G01 X-36.92 Y-76.43
+G01 X-32.78 Y-75.84
+G01 X-30.79 Y-75.14
+G01 X-29.01 Y-74.18
+G01 X-27.87 Y-73.27
+G01 X-27.47 Y-72.67
+G01 X-27.36 Y-72.00
+G01 X-27.69 Y-71.10
+G01 X-28.35 Y-70.31
+G01 X-29.96 Y-68.84
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X59.21 Y-44.49
+G00 Z0.00 (pen down)
+G01 X59.81 Y-46.39
+G01 X60.27 Y-48.92
+G01 X61.16 Y-53.32
+G01 X61.83 Y-55.63
+G01 X62.85 Y-57.13
+G01 X64.19 Y-57.58
+G01 X65.87 Y-57.57
+G01 X69.02 Y-57.01
+G01 X71.47 Y-56.35
+G01 X73.73 Y-55.41
+G01 X77.70 Y-52.80
+G01 X81.04 Y-49.40
+G01 X83.88 Y-45.44
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X69.97 Y-44.49
+G00 Z0.00 (pen down)
+G01 X68.52 Y-45.47
+G01 X66.60 Y-46.25
+G01 X63.01 Y-47.33
+G01 X64.35 Y-48.30
+G01 X66.17 Y-48.97
+G01 X70.91 Y-49.77
+G01 X73.45 Y-49.90
+G01 X75.97 Y-49.65
+G01 X78.41 Y-49.02
+G01 X80.72 Y-47.97
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-52.10 Y-44.80
+G00 Z0.00 (pen down)
+G01 X-54.08 Y-45.95
+G01 X-57.15 Y-46.06
+G01 X-60.32 Y-45.75
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-20.47 Y-45.44
+G00 Z0.00 (pen down)
+G01 X-18.26 Y-50.18
+G01 X-16.72 Y-53.76
+G01 X-16.14 Y-55.76
+G01 X-16.20 Y-57.41
+G01 X-16.90 Y-58.25
+G01 X-18.04 Y-58.79
+G01 X-20.47 Y-59.26
+G01 X-22.24 Y-59.31
+G01 X-23.96 Y-59.06
+G01 X-27.27 Y-57.94
+G01 X-30.51 Y-56.48
+G01 X-33.75 Y-55.24
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X60.16 Y-46.70
+G00 Z0.00 (pen down)
+G01 X63.01 Y-47.33
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-64.43 Y-50.81
+G00 Z0.00 (pen down)
+G01 X-61.96 Y-56.55
+G01 X-58.91 Y-61.88
+G01 X-56.74 Y-65.23
+G01 X-55.51 Y-66.52
+G01 X-53.99 Y-67.57
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X80.72 Y-53.03
+G00 Z0.00 (pen down)
+G01 X78.70 Y-56.24
+G01 X76.47 Y-58.97
+G01 X75.13 Y-59.98
+G01 X73.76 Y-60.85
+G01 X71.73 Y-62.06
+G01 X69.10 Y-63.25
+G01 X64.27 Y-64.73
+G01 X65.86 Y-73.90
+G01 X66.48 Y-76.43
+G01 X66.62 Y-78.64
+G01 X68.48 Y-89.62
+G01 X69.30 Y-95.30
+G01 X69.65 Y-100.78
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X84.20 Y-54.61
+G00 Z0.00 (pen down)
+G01 X83.93 Y-57.25
+G01 X83.36 Y-59.67
+G01 X82.50 Y-63.78
+G01 X81.63 Y-65.78
+G01 X80.46 Y-67.68
+G01 X77.55 Y-71.04
+G01 X75.15 Y-72.84
+G01 X72.11 Y-74.50
+G01 X69.12 Y-75.78
+G01 X66.80 Y-76.43
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-3.08 Y-54.92
+G00 Z0.00 (pen down)
+G01 X-3.73 Y-58.51
+G01 X-4.98 Y-62.20
+G01 X-6.42 Y-65.29
+G01 X-8.19 Y-68.25
+G01 X-10.26 Y-71.03
+G01 X-12.57 Y-73.58
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X62.69 Y-57.45
+G00 Z0.00 (pen down)
+G01 X63.27 Y-60.97
+G01 X63.96 Y-64.41
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-15.73 Y-58.09
+G00 Z0.00 (pen down)
+G01 X-15.36 Y-59.53
+G01 X-14.46 Y-59.98
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X26.01 Y-58.72
+G00 Z0.00 (pen down)
+G01 X28.65 Y-65.67
+G01 X30.26 Y-70.42
+G01 X34.27 Y-85.91
+G01 X38.66 Y-105.20
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X75.66 Y-59.98
+G00 Z0.00 (pen down)
+G01 X74.67 Y-61.53
+G01 X73.07 Y-63.32
+G01 X69.02 Y-66.73
+G01 X67.27 Y-67.88
+G01 X65.22 Y-68.52
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-14.78 Y-60.30
+G00 Z0.00 (pen down)
+G01 X-16.84 Y-62.83
+G01 X-19.20 Y-65.36
+G01 X-22.68 Y-68.77
+G01 X-25.53 Y-72.00
+G01 X-23.18 Y-72.60
+G01 X-20.65 Y-72.40
+G01 X-18.11 Y-71.61
+G01 X-15.73 Y-70.42
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X67.44 Y-68.20
+G00 Z0.00 (pen down)
+G01 X69.24 Y-68.27
+G01 X71.65 Y-67.91
+G01 X74.25 Y-67.18
+G01 X76.61 Y-66.14
+G01 X78.57 Y-64.75
+G01 X80.23 Y-63.13
+G01 X82.93 Y-60.30
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-15.10 Y-61.56
+G00 Z0.00 (pen down)
+G01 X-14.78 Y-68.84
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-59.05 Y-62.51
+G00 Z0.00 (pen down)
+G01 X-57.89 Y-66.77
+G01 X-56.78 Y-69.47
+G01 X-55.56 Y-71.68
+G01 X-53.09 Y-75.42
+G01 X-51.50 Y-77.39
+G01 X-49.57 Y-79.24
+G01 X-45.93 Y-82.03
+G01 X-41.98 Y-84.08
+G01 X-39.01 Y-85.08
+G01 X-35.92 Y-85.66
+G01 X-32.77 Y-85.77
+G01 X-29.64 Y-85.39
+G01 X-25.57 Y-84.01
+G01 X-21.94 Y-81.72
+G01 X-18.91 Y-78.64
+G01 X-16.68 Y-74.85
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-53.99 Y-69.15
+G00 Z0.00 (pen down)
+G01 X-53.99 Y-73.26
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-26.80 Y-72.00
+G00 Z0.00 (pen down)
+G01 X-25.85 Y-72.32
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-53.36 Y-76.43
+G00 Z0.00 (pen down)
+G01 X-52.02 Y-84.65
+G01 X-50.25 Y-92.78
+G01 X-47.98 Y-100.78
+G01 X-46.40 Y-105.20
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X6.41 Y-93.50
+G00 Z0.00 (pen down)
+G01 X4.06 Y-97.44
+G01 X2.29 Y-101.72
+G01 X1.72 Y-103.27
+G01 X1.35 Y-104.89
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-0.55 Y-98.88
+G00 Z0.00 (pen down)
+G01 X1.35 Y-103.31
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X-30.59 Y-100.14
+G00 Z0.00 (pen down)
+G01 X-26.17 Y-105.20
+G00 Z1.00 (pen up)
+
+(Polyline consisting of 149 segments.)
+G01 X69.97 Y-101.41
+G00 Z0.00 (pen down)
+G01 X69.97 Y-102.99
+G00 Z1.00 (pen up)
+
+
+(end of print job)
+G00 X0 Y0 Z1.00 (pen up)
